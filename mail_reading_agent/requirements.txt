@@ -1,0 +1,17 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+asyncio
+python-dotenv
+openai
+tiktoken
+PyMuPDF
+pandas
+db-dtypes
+google-auth
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+PyPDF2
+uvicorn
+fastapi
